@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8371ef74f5d8c5ef",
+        "id": "da1f12b828e1ef50",
         "type": "tabs",
         "children": [
           {
-            "id": "df006888e43f8133",
+            "id": "270795da91995928",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,12 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "270795da91995928",
   "lastOpenFiles": [
-    "University/SoftEng/Belbins/belbins.pdf",
     "University/SoftEng/Belbins/scores.pdf",
-    "University/SoftEng/Belbins",
+    "University/SoftEng/Belbins/belbins.pdf",
     "University/SoftEng/1. Intro To Soft Eng.md",
+    "University/SoftEng/Belbins",
     "University/FirmLang/3. Non-Deterministic FSA.md",
     "Untitled",
     "University",
@@ -213,7 +213,6 @@
     "University/NetWorks/Slides/3. Ports.pdf",
     "University/NetWorks/Worksheet/Worksheet 1.pdf",
     "University/NetWorks/Worksheet",
-    "University/NetWorks/ParseCmdLineArgs.java",
     "University/NetWorks/2. Layered Network Models.md",
     "1.Images/Pasted image 20250130145949.png",
     "University/NetWorks/1. Intro to Networks.md",
