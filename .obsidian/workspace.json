@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae38cf452ec176a",
+        "id": "8371ef74f5d8c5ef",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9edbc7e172bbdc",
+            "id": "df006888e43f8133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/FirmLang/3. Non-Deterministic FSA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Non-Deterministic FSA"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/FirmLang/3. Non-Deterministic FSA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Non-Deterministic FSA"
+              "title": "Outline"
             }
           },
           {
@@ -189,12 +184,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfd52a63f5074769",
+  "active": "7190751ebed3971d",
   "lastOpenFiles": [
+    "University/SoftEng/Belbins/belbins.pdf",
+    "University/SoftEng/Belbins/scores.pdf",
+    "University/SoftEng/Belbins",
+    "University/SoftEng/1. Intro To Soft Eng.md",
+    "University/FirmLang/3. Non-Deterministic FSA.md",
     "Untitled",
     "University",
     "University/FirmLang/2. Finite State Automaton.md",
-    "University/FirmLang/3. Non-Deterministic FSA.md",
     "University/FirmLang/Slides/2. Non-Deterministic FSA.pdf",
     "University/Ai/3. Search Strategies & Algorithms.md",
     "1.Images/Pasted image 20250203133215.png",
@@ -215,15 +214,11 @@
     "University/NetWorks/Worksheet/Worksheet 1.pdf",
     "University/NetWorks/Worksheet",
     "University/NetWorks/ParseCmdLineArgs.java",
-    "ParseCmdLineArgs 1.java",
     "University/NetWorks/2. Layered Network Models.md",
-    "ParseCmdLineArgs.java",
     "1.Images/Pasted image 20250130145949.png",
     "University/NetWorks/1. Intro to Networks.md",
-    "University/NetWorks/Slides/1. Intro.pdf",
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
-    "University/SoftEng/1. Intro To Soft Eng.md",
     "SoftEng/Untitled.canvas",
     "University/Ai/1. Intro To Ai.md",
     "CWK!.md",
