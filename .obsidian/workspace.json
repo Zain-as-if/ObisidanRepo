@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "bcbac5913ce6fc3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae38cf452ec176a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9edbc7e172bbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/FirmLang/3. Non-Deterministic FSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Non-Deterministic FSA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce216ced71f6f6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e0358842af5a99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7190751ebed3971d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de71b40660fab0ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:Intro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6713a019bf26cc96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0ae786ff6ca6e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "d361cbed6c905b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "badfc27a358b6258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "379b7a163a33a163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f18ef7ba093d5b81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "406b6635a22e8b39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University/FirmLang/3. Non-Deterministic FSA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Non-Deterministic FSA"
+            }
+          },
+          {
+            "id": "cfd52a63f5074769",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fe045f1b0ee92268",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cfd52a63f5074769",
+  "lastOpenFiles": [
+    "Untitled",
+    "University",
+    "University/FirmLang/2. Finite State Automaton.md",
+    "University/FirmLang/3. Non-Deterministic FSA.md",
+    "University/FirmLang/Slides/2. Non-Deterministic FSA.pdf",
+    "University/Ai/3. Search Strategies & Algorithms.md",
+    "1.Images/Pasted image 20250203133215.png",
+    "2025-02-03.md",
+    "University/Ai/Slides/2. Search Slides.pdf",
+    "University/Ai/2. Intro To Search.md",
+    "1.Images/Pasted image 20250131141843.png",
+    "1.Images/Pasted image 20250131141740.png",
+    "1.Images/Pasted image 20250131124945.png",
+    "1.Images/Pasted image 20250131124716.png",
+    "1.Images/Pasted image 20250131124235.png",
+    "1.Images/Pasted image 20250131123744.png",
+    "1.Images/Pasted image 20250131123503.png",
+    "University/NetWorks/3. Ports.md",
+    "1.Images/Pasted image 20250131122828.png",
+    "University/NetWorks/Worksheet/Answers 1.md",
+    "University/NetWorks/Slides/3. Ports.pdf",
+    "University/NetWorks/Worksheet/Worksheet 1.pdf",
+    "University/NetWorks/Worksheet",
+    "University/NetWorks/ParseCmdLineArgs.java",
+    "ParseCmdLineArgs 1.java",
+    "University/NetWorks/2. Layered Network Models.md",
+    "ParseCmdLineArgs.java",
+    "1.Images/Pasted image 20250130145949.png",
+    "University/NetWorks/1. Intro to Networks.md",
+    "University/NetWorks/Slides/1. Intro.pdf",
+    "University/Data Mining/1. Intro to Data Mining.md",
+    "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
+    "University/SoftEng/1. Intro To Soft Eng.md",
+    "SoftEng/Untitled.canvas",
+    "University/Ai/1. Intro To Ai.md",
+    "CWK!.md",
+    "Latex Test.md",
+    "Excalidraw/Drawing 2024-11-05 00.04.22.excalidraw.md",
+    "Welcome.md"
+  ]
+}
