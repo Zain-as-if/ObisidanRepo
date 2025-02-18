@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da1f12b828e1ef50",
+        "id": "f3b84d98ed164b4c",
         "type": "tabs",
         "children": [
           {
-            "id": "270795da91995928",
+            "id": "eae78bd6467c56f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "University/SoftEng/Coursework/Minutes_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Minutes_1"
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Intro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,9 +186,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "eae78bd6467c56f2",
   "lastOpenFiles": [
+    "University/Ai/6. Uniform Cost Search.md",
+    "University/SoftEng/Coursework/Minutes_1.pdf",
+    "University/SoftEng/Coursework",
+    "University/SoftEng/Document 1 1.docx",
+    "University/SoftEng/Document 1.docx",
+    "Document 1.docx",
+    "1.Images/Pasted image 20250213214315.png",
+    "1.Images/Pasted image 20250213214407.png",
+    "1.Images/Pasted image 20250213214401.png",
+    "1.Images/Pasted image 20250213214352.png",
+    "1.Images/Pasted image 20250213214347.png",
+    "1.Images/Pasted image 20250213214342.png",
+    "1.Images/Pasted image 20250213214337.png",
+    "1.Images/Pasted image 20250213214331.png",
+    "1.Images/Pasted image 20250213214323.png",
+    "University/Ai/5. More Heuristics.md",
+    "1.Images/Pasted image 20250213211540.png",
+    "University/Ai/4. Informed Heuristic Search.md",
+    "University/Ai/3. Search Strategies & Algorithms.md",
+    "University/Ai/2. Intro To Search.md",
+    "University/Ai/1. Intro To Ai.md",
     "University/SoftEng/Belbins/belbins.pdf",
+    "University/SoftEng/Belbins/My Scores.md",
     "University/SoftEng/Belbins/scores.pdf",
     "University/SoftEng/1. Intro To Soft Eng.md",
     "University/SoftEng/Belbins",
@@ -194,32 +218,14 @@
     "Untitled",
     "University",
     "University/FirmLang/2. Finite State Automaton.md",
-    "University/FirmLang/Slides/2. Non-Deterministic FSA.pdf",
-    "University/Ai/3. Search Strategies & Algorithms.md",
-    "1.Images/Pasted image 20250203133215.png",
     "2025-02-03.md",
-    "University/Ai/Slides/2. Search Slides.pdf",
-    "University/Ai/2. Intro To Search.md",
-    "1.Images/Pasted image 20250131141843.png",
-    "1.Images/Pasted image 20250131141740.png",
-    "1.Images/Pasted image 20250131124945.png",
-    "1.Images/Pasted image 20250131124716.png",
-    "1.Images/Pasted image 20250131124235.png",
-    "1.Images/Pasted image 20250131123744.png",
-    "1.Images/Pasted image 20250131123503.png",
     "University/NetWorks/3. Ports.md",
-    "1.Images/Pasted image 20250131122828.png",
     "University/NetWorks/Worksheet/Answers 1.md",
-    "University/NetWorks/Slides/3. Ports.pdf",
-    "University/NetWorks/Worksheet/Worksheet 1.pdf",
-    "University/NetWorks/Worksheet",
     "University/NetWorks/2. Layered Network Models.md",
-    "1.Images/Pasted image 20250130145949.png",
     "University/NetWorks/1. Intro to Networks.md",
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "SoftEng/Untitled.canvas",
-    "University/Ai/1. Intro To Ai.md",
     "CWK!.md",
     "Latex Test.md",
     "Excalidraw/Drawing 2024-11-05 00.04.22.excalidraw.md",
