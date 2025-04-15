@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/SoftEng/Coursework/Minutes_1.pdf"
+                "file": "University/Data Mining/Slides/07b CHEAT NLTK Python.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Minutes_1"
+              "title": "07b CHEAT NLTK Python"
             }
           }
         ]
@@ -188,12 +188,18 @@
   },
   "active": "eae78bd6467c56f2",
   "lastOpenFiles": [
+    "University/Data Mining/Slides/10a edubots for university education.pdf",
+    "University/Data Mining/Slides/07a Information Extraction.pdf",
+    "University/Data Mining/Slides/msoA7AE.tmp",
+    "University/Data Mining/Slides/~$07a Information Extraction.pptx",
+    "University/Data Mining/Slides/06b Machine Translation.pdf",
+    "University/Data Mining/Slides/mso6C89.tmp",
+    "University/Data Mining/Slides/~$06b Machine Translation.pptx",
+    "University/Data Mining/Slides/05a word meanings embeddings SLP.pdf",
+    "University/Data Mining/Slides/mso204F.tmp",
+    "University/Data Mining/Slides/msoEBA.tmp",
+    "University/Data Mining/Slides/~$05a word meanings embeddings SLP.pptx",
     "University/Ai/6. Uniform Cost Search.md",
-    "University/SoftEng/Coursework/Minutes_1.pdf",
-    "University/SoftEng/Coursework",
-    "University/SoftEng/Document 1 1.docx",
-    "University/SoftEng/Document 1.docx",
-    "Document 1.docx",
     "1.Images/Pasted image 20250213214315.png",
     "1.Images/Pasted image 20250213214407.png",
     "1.Images/Pasted image 20250213214401.png",
@@ -209,14 +215,9 @@
     "University/Ai/3. Search Strategies & Algorithms.md",
     "University/Ai/2. Intro To Search.md",
     "University/Ai/1. Intro To Ai.md",
-    "University/SoftEng/Belbins/belbins.pdf",
     "University/SoftEng/Belbins/My Scores.md",
-    "University/SoftEng/Belbins/scores.pdf",
     "University/SoftEng/1. Intro To Soft Eng.md",
-    "University/SoftEng/Belbins",
     "University/FirmLang/3. Non-Deterministic FSA.md",
-    "Untitled",
-    "University",
     "University/FirmLang/2. Finite State Automaton.md",
     "2025-02-03.md",
     "University/NetWorks/3. Ports.md",
