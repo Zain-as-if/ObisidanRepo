@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b84d98ed164b4c",
+        "id": "c364ad42d4c2d198",
         "type": "tabs",
         "children": [
           {
-            "id": "eae78bd6467c56f2",
+            "id": "50af44ecd00e6382",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "University/Data Mining/Slides/07b CHEAT NLTK Python.pdf"
+                "file": "University/Ai/1. Intro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "07b CHEAT NLTK Python"
+              "icon": "lucide-file",
+              "title": "1. Intro"
             }
           }
         ]
@@ -186,20 +188,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eae78bd6467c56f2",
+  "active": "50af44ecd00e6382",
   "lastOpenFiles": [
+    "University/Ai/PastNotes/1. Intro To Ai.md",
+    "University/Ai/1. Intro.md",
+    "University/Ai/PastNotes/3. Search Strategies & Algorithms.md",
+    "University/Ai/PastNotes/6. Uniform Cost Search.md",
+    "University/Ai/PastNotes",
+    "University/Ai/Slides/1. Intro Slides.pdf",
+    "University/Ai/Slides/2. Search Slides.pdf",
+    "University/Data Mining/Slides/07b CHEAT NLTK Python.pdf",
     "University/Data Mining/Slides/10a edubots for university education.pdf",
     "University/Data Mining/Slides/07a Information Extraction.pdf",
     "University/Data Mining/Slides/msoA7AE.tmp",
     "University/Data Mining/Slides/~$07a Information Extraction.pptx",
     "University/Data Mining/Slides/06b Machine Translation.pdf",
     "University/Data Mining/Slides/mso6C89.tmp",
-    "University/Data Mining/Slides/~$06b Machine Translation.pptx",
-    "University/Data Mining/Slides/05a word meanings embeddings SLP.pdf",
-    "University/Data Mining/Slides/mso204F.tmp",
-    "University/Data Mining/Slides/msoEBA.tmp",
-    "University/Data Mining/Slides/~$05a word meanings embeddings SLP.pptx",
-    "University/Ai/6. Uniform Cost Search.md",
     "1.Images/Pasted image 20250213214315.png",
     "1.Images/Pasted image 20250213214407.png",
     "1.Images/Pasted image 20250213214401.png",
@@ -209,12 +213,10 @@
     "1.Images/Pasted image 20250213214337.png",
     "1.Images/Pasted image 20250213214331.png",
     "1.Images/Pasted image 20250213214323.png",
-    "University/Ai/5. More Heuristics.md",
+    "University/Ai/PastNotes/5. More Heuristics.md",
     "1.Images/Pasted image 20250213211540.png",
-    "University/Ai/4. Informed Heuristic Search.md",
-    "University/Ai/3. Search Strategies & Algorithms.md",
-    "University/Ai/2. Intro To Search.md",
-    "University/Ai/1. Intro To Ai.md",
+    "University/Ai/PastNotes/4. Informed Heuristic Search.md",
+    "University/Ai/PastNotes/2. Intro To Search.md",
     "University/SoftEng/Belbins/My Scores.md",
     "University/SoftEng/1. Intro To Soft Eng.md",
     "University/FirmLang/3. Non-Deterministic FSA.md",
