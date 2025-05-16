@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d0ae786ff6ca6e40",
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Ai/3. Searches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,20 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "379b7a163a33a163",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Backlinks for 3. Searches"
             }
           },
           {
@@ -148,17 +136,32 @@
             }
           },
           {
+            "id": "379b7a163a33a163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University/Ai/3. Searches.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Searches"
+            }
+          },
+          {
             "id": "406b6635a22e8b39",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "University/Ai/3. Searches.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3. Searches"
             }
           },
           {
@@ -186,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382
+    "width": 379
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ce2f415076ed6c9",
+  "active": "cfd52a63f5074769",
   "lastOpenFiles": [
     "University/Ai/2. Search.md",
     "1.Images/Pasted image 20250515223847.png",
