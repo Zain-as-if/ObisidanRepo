@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Ai/3. Searches.md",
+                "file": "University/Ai/4. Heuristics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Searches"
+              "title": "4. Heuristics"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monotonically",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,11 +191,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de71b40660fab0ab",
+  "active": "611d6a5523485c64",
   "lastOpenFiles": [
+    "Pasted image 20250517155748.png",
+    "Pasted image 20250517154001.png",
+    "University/Ai/3. Searches.md",
+    "University/Ai/4. Heuristics.md",
     "1.Images/Pasted image 20250515223947.png",
     "University/Ai/PastNotes/6. Uniform Cost Search.md",
-    "University/Ai/3. Searches.md",
     "1.Images/Pasted image 20250516012056.png",
     "University/Ai/2. Search.md",
     "1.Images/Pasted image 20250515223847.png",
@@ -213,7 +215,6 @@
     "1.Images/Pasted image 20250515020026.png",
     "1.Images/Pasted image 20250515015906.png",
     "Pasted image 20250127211426.md",
-    "1.Images/Pasted image 20250127211426.png",
     "Simple reflex.md",
     "University/Ai/PastNotes/1. Intro To Ai.md",
     "University/Ai/PastNotes",
@@ -238,7 +239,6 @@
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "SoftEng/Untitled.canvas",
     "CWK!.md",
-    "Latex Test.md",
-    "Excalidraw/Drawing 2024-11-05 00.04.22.excalidraw.md"
+    "Latex Test.md"
   ]
 }
