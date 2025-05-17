@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Ai/5. Adversarial Games.md",
+                "file": "University/Ai/6. Alpha-Beta Pruning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Adversarial Games"
+              "title": "6. Alpha-Beta Pruning"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "evaluation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,28 +193,31 @@
   },
   "active": "611d6a5523485c64",
   "lastOpenFiles": [
-    "Pasted image 20250517215757.png",
-    "Pasted image 20250517215705.png",
+    "1.Images/Pasted image 20250517215705.png",
+    "University/Ai/6. Alpha-Beta Pruning.md",
+    "1.Images/Pasted image 20250517225443.png",
+    "1.Images/Pasted image 20250517225427.png",
+    "1.Images/Pasted image 20250517225314.png",
+    "1.Images/Pasted image 20250517225306.png",
+    "1.Images/Pasted image 20250517225301.png",
+    "1.Images/Pasted image 20250517225256.png",
+    "1.Images/Pasted image 20250517225242.png",
+    "1.Images/Pasted image 20250517225236.png",
+    "University/Ai/5. MiniMax.md",
+    "Untitled",
+    "1.Images/Pasted image 20250517223214.png",
     "University/Ai/4. Heuristics.md",
-    "University/Ai/5. Adversarial Games.md",
-    "1.Images/Pasted image 20250517155748.png",
-    "1.Images/Pasted image 20250517154001.png",
     "University/Ai/3. Searches.md",
-    "1.Images/Pasted image 20250515223947.png",
-    "University/Ai/PastNotes/6. Uniform Cost Search.md",
-    "1.Images/Pasted image 20250516012056.png",
     "University/Ai/2. Search.md",
-    "1.Images/Pasted image 20250515223847.png",
-    "1.Images/Pasted image 20250515205519.png",
-    "University/Ai/1. Intro.md",
+    "University/Ai/PastNotes/5. More Heuristics.md",
     "University/Ai/PastNotes/4. Informed Heuristic Search.md",
     "University/Ai/PastNotes/3. Search Strategies & Algorithms.md",
+    "1.Images/Pasted image 20250517221741.png",
+    "University/Ai/PastNotes/6. Uniform Cost Search.md",
+    "University/Ai/1. Intro.md",
     "University/Ai/PastNotes/2. Intro To Search.md",
     "University/Ai/Slides/2. Search Slides.pdf",
     "University/Ai/Slides/1. Intro Slides.pdf",
-    "1.Images/Pasted image 20250515020656.png",
-    "1.Images/Pasted image 20250515020138.png",
-    "1.Images/Pasted image 20250515020312.png",
     "Pasted image 20250127211426.md",
     "Simple reflex.md",
     "University/Ai/PastNotes/1. Intro To Ai.md",
@@ -225,8 +228,6 @@
     "University/Data Mining/Slides/msoA7AE.tmp",
     "University/Data Mining/Slides/~$07a Information Extraction.pptx",
     "University/Data Mining/Slides/06b Machine Translation.pdf",
-    "University/Data Mining/Slides/mso6C89.tmp",
-    "University/Ai/PastNotes/5. More Heuristics.md",
     "University/SoftEng/Belbins/My Scores.md",
     "University/SoftEng/1. Intro To Soft Eng.md",
     "University/FirmLang/3. Non-Deterministic FSA.md",
@@ -238,7 +239,6 @@
     "University/NetWorks/1. Intro to Networks.md",
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
-    "SoftEng/Untitled.canvas",
-    "CWK!.md"
+    "SoftEng/Untitled.canvas"
   ]
 }
