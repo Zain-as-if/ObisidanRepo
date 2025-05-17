@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Ai/4. Heuristics.md",
+                "file": "University/Ai/5. Adversarial Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Heuristics"
+              "title": "5. Adversarial Games"
             }
           }
         ]
@@ -191,12 +191,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "611d6a5523485c64",
   "lastOpenFiles": [
+    "Pasted image 20250517215757.png",
+    "Pasted image 20250517215705.png",
+    "University/Ai/4. Heuristics.md",
+    "University/Ai/5. Adversarial Games.md",
     "1.Images/Pasted image 20250517155748.png",
     "1.Images/Pasted image 20250517154001.png",
     "University/Ai/3. Searches.md",
-    "University/Ai/4. Heuristics.md",
     "1.Images/Pasted image 20250515223947.png",
     "University/Ai/PastNotes/6. Uniform Cost Search.md",
     "1.Images/Pasted image 20250516012056.png",
@@ -212,8 +215,6 @@
     "1.Images/Pasted image 20250515020656.png",
     "1.Images/Pasted image 20250515020138.png",
     "1.Images/Pasted image 20250515020312.png",
-    "1.Images/Pasted image 20250515020026.png",
-    "1.Images/Pasted image 20250515015906.png",
     "Pasted image 20250127211426.md",
     "Simple reflex.md",
     "University/Ai/PastNotes/1. Intro To Ai.md",
@@ -238,7 +239,6 @@
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "SoftEng/Untitled.canvas",
-    "CWK!.md",
-    "Latex Test.md"
+    "CWK!.md"
   ]
 }
