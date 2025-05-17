@@ -11,14 +11,12 @@
             "id": "611d6a5523485c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "University/Ai/6. Alpha-Beta Pruning.md",
-                "mode": "source",
-                "source": false
+                "file": "1.Images/Pasted image 20250517232407.png"
               },
-              "icon": "lucide-file",
-              "title": "6. Alpha-Beta Pruning"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250517232407"
             }
           }
         ]
@@ -191,28 +189,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "611d6a5523485c64",
+  "active": "7190751ebed3971d",
   "lastOpenFiles": [
-    "1.Images/Pasted image 20250517215705.png",
+    "University/Ai/7. Randomness and uncertainty.md",
+    "1.Images/Pasted image 20250517232407.png",
     "University/Ai/6. Alpha-Beta Pruning.md",
+    "1.Images/Pasted image 20250517230409.png",
+    "1.Images/Pasted image 20250517230041.png",
+    "University/Ai/5. MiniMax.md",
+    "1.Images/Pasted image 20250517215705.png",
     "1.Images/Pasted image 20250517225443.png",
     "1.Images/Pasted image 20250517225427.png",
     "1.Images/Pasted image 20250517225314.png",
     "1.Images/Pasted image 20250517225306.png",
     "1.Images/Pasted image 20250517225301.png",
     "1.Images/Pasted image 20250517225256.png",
-    "1.Images/Pasted image 20250517225242.png",
-    "1.Images/Pasted image 20250517225236.png",
-    "University/Ai/5. MiniMax.md",
     "Untitled",
-    "1.Images/Pasted image 20250517223214.png",
     "University/Ai/4. Heuristics.md",
     "University/Ai/3. Searches.md",
     "University/Ai/2. Search.md",
     "University/Ai/PastNotes/5. More Heuristics.md",
     "University/Ai/PastNotes/4. Informed Heuristic Search.md",
     "University/Ai/PastNotes/3. Search Strategies & Algorithms.md",
-    "1.Images/Pasted image 20250517221741.png",
     "University/Ai/PastNotes/6. Uniform Cost Search.md",
     "University/Ai/1. Intro.md",
     "University/Ai/PastNotes/2. Intro To Search.md",
@@ -238,7 +236,6 @@
     "University/NetWorks/2. Layered Network Models.md",
     "University/NetWorks/1. Intro to Networks.md",
     "University/Data Mining/1. Intro to Data Mining.md",
-    "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "SoftEng/Untitled.canvas"
   ]
 }
