@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d828190af59746e4",
+        "id": "32d5654dbd05d53c",
         "type": "tabs",
         "children": [
           {
-            "id": "611d6a5523485c64",
+            "id": "a515a71a83b1b7ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1.Images/Pasted image 20250517232407.png"
+                "file": "University/Ai/7. Randomness and uncertainty.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250517232407"
+              "icon": "lucide-file",
+              "title": "7. Randomness and uncertainty"
             }
           }
         ]
@@ -189,14 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "a515a71a83b1b7ff",
   "lastOpenFiles": [
-    "University/Ai/7. Randomness and uncertainty.md",
+    "University/Ai/1. Intro.md",
+    "University/Ai/2. Search.md",
+    "University/Ai/3. Searches.md",
+    "University/Ai/5. MiniMax.md",
     "1.Images/Pasted image 20250517232407.png",
+    "University/Ai/7. Randomness and uncertainty.md",
     "University/Ai/6. Alpha-Beta Pruning.md",
     "1.Images/Pasted image 20250517230409.png",
     "1.Images/Pasted image 20250517230041.png",
-    "University/Ai/5. MiniMax.md",
     "1.Images/Pasted image 20250517215705.png",
     "1.Images/Pasted image 20250517225443.png",
     "1.Images/Pasted image 20250517225427.png",
@@ -206,13 +211,10 @@
     "1.Images/Pasted image 20250517225256.png",
     "Untitled",
     "University/Ai/4. Heuristics.md",
-    "University/Ai/3. Searches.md",
-    "University/Ai/2. Search.md",
     "University/Ai/PastNotes/5. More Heuristics.md",
     "University/Ai/PastNotes/4. Informed Heuristic Search.md",
     "University/Ai/PastNotes/3. Search Strategies & Algorithms.md",
     "University/Ai/PastNotes/6. Uniform Cost Search.md",
-    "University/Ai/1. Intro.md",
     "University/Ai/PastNotes/2. Intro To Search.md",
     "University/Ai/Slides/2. Search Slides.pdf",
     "University/Ai/Slides/1. Intro Slides.pdf",
