@@ -11,12 +11,14 @@
             "id": "a515a71a83b1b7ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1.Images/Pasted image 20250518001648.png"
+                "file": "University/Ai/10. Fundamentals Of Classical Logic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250518001648"
+              "icon": "lucide-file",
+              "title": "10. Fundamentals Of Classical Logic"
             }
           }
         ]
@@ -174,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 257
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "a515a71a83b1b7ff",
   "lastOpenFiles": [
+    "University/Ai/9. KRR.md",
+    "University/Ai/10. Fundamentals Of Classical Logic.md",
+    "Pasted image 20250518090406.png",
     "University/Ai/8. Probability.md",
+    "1.Images/Pasted image 20250518001648.png",
     "1.Images/Pasted image 20250518011853.png",
     "1.Images/Pasted image 20250518011849.png",
     "1.Images/Pasted image 20250518011844.png",
@@ -200,8 +206,6 @@
     "1.Images/Pasted image 20250518011825.png",
     "1.Images/Pasted image 20250518011820.png",
     "1.Images/Pasted image 20250518011813.png",
-    "1.Images/Pasted image 20250518011807.png",
-    "1.Images/Pasted image 20250518011802.png",
     "University/Ai/7. Randomness and uncertainty.md",
     "University/Ai/1. Intro.md",
     "University/Ai/2. Search.md",
@@ -235,7 +239,6 @@
     "University/NetWorks/3. Ports.md",
     "University/NetWorks/Worksheet/Answers 1.md",
     "University/NetWorks/2. Layered Network Models.md",
-    "University/NetWorks/1. Intro to Networks.md",
     "SoftEng/Untitled.canvas"
   ]
 }
