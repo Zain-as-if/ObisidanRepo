@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32d5654dbd05d53c",
+        "id": "f3920649e8d6190f",
         "type": "tabs",
         "children": [
           {
-            "id": "a515a71a83b1b7ff",
+            "id": "ff79063a6b8ef9ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Ai/11. First-Order Logic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "11. First-Order Logic"
+              "title": "New tab"
             }
           }
         ]
@@ -191,17 +187,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a515a71a83b1b7ff",
+  "active": "ff79063a6b8ef9ac",
   "lastOpenFiles": [
-    "University/Ai/10. Fundamentals Of Classical Logic.md",
+    "Excalidraw/Drawing 2025-05-19 17.43.28.excalidraw.md",
+    "University/NetWorks/2. Layered Network Models.md",
+    "University/NetWorks/1. Intro to Networks.md",
+    "Excalidraw",
+    "University/NetWorks/Worksheet/Worksheet 1.pdf",
+    "University/NetWorks/3. Ports.md",
+    "1.Images/Pasted image 20250518121728.png",
     "University/Ai/11. First-Order Logic.md",
-    "Pasted image 20250518121728.png",
-    "Pasted image 20250518120549.png",
-    "Pasted image 20250518120537.png",
-    "Pasted image 20250518113943.png",
-    "Pasted image 20250518113934.png",
+    "University/Ai/10. Fundamentals Of Classical Logic.md",
+    "1.Images/Pasted image 20250518120549.png",
+    "1.Images/Pasted image 20250518120537.png",
+    "1.Images/Pasted image 20250518113943.png",
+    "1.Images/Pasted image 20250518113934.png",
     "University/Ai/9. KRR.md",
-    "Pasted image 20250518090406.png",
+    "1.Images/Pasted image 20250518090406.png",
     "University/Ai/8. Probability.md",
     "1.Images/Pasted image 20250518001648.png",
     "1.Images/Pasted image 20250518011853.png",
@@ -230,15 +232,9 @@
     "University/Data Mining/Slides/10a edubots for university education.pdf",
     "University/Data Mining/Slides/07a Information Extraction.pdf",
     "University/Data Mining/Slides/msoA7AE.tmp",
-    "University/Data Mining/Slides/~$07a Information Extraction.pptx",
-    "University/Data Mining/Slides/06b Machine Translation.pdf",
     "University/SoftEng/Belbins/My Scores.md",
     "University/SoftEng/1. Intro To Soft Eng.md",
     "University/FirmLang/3. Non-Deterministic FSA.md",
-    "University/FirmLang/2. Finite State Automaton.md",
-    "2025-02-03.md",
-    "University/NetWorks/3. Ports.md",
-    "University/NetWorks/Worksheet/Answers 1.md",
     "SoftEng/Untitled.canvas"
   ]
 }
