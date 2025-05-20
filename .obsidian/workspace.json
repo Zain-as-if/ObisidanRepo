@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3920649e8d6190f",
+        "id": "be72e63ba636f7ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ff79063a6b8ef9ac",
+            "id": "3345393733bee886",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/NetWorks/4. IP Addresses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4. IP Addresses"
             }
           }
         ]
@@ -187,28 +191,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff79063a6b8ef9ac",
+  "active": "7190751ebed3971d",
   "lastOpenFiles": [
+    "1.Images/Pasted image 20250520014032.png",
+    "University/NetWorks/4. IP Addresses.md",
+    "University/NetWorks/3. DNS.md",
+    "University/NetWorks/OldNotes/3. Ports.md",
+    "University/NetWorks/1. Networks.md",
+    "University/NetWorks/2. Ports.md",
+    "1.Images/Pasted image 20250520013900.png",
+    "1.Images/Pasted image 20250520013806.png",
+    "1.Images/Pasted image 20250520013729.png",
+    "1.Images/Pasted image 20250520005600.png",
+    "1.Images/Pasted image 20250520004912.png",
+    "1.Images/Pasted image 20250519235949.png",
+    "1.Images/Pasted image 20250519235417.png",
+    "1.Images/Pasted image 20250519234127.png",
+    "1.Images/Pasted image 20250519224836.png",
+    "University/NetWorks/OldNotes/2. Layered Network Models.md",
+    "University/NetWorks/OldNotes",
+    "University/NetWorks/OldNotes/1. Intro to Networks.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2025-05-19 17.43.28.excalidraw.md",
-    "University/NetWorks/2. Layered Network Models.md",
-    "University/NetWorks/1. Intro to Networks.md",
     "Excalidraw",
     "University/NetWorks/Worksheet/Worksheet 1.pdf",
-    "University/NetWorks/3. Ports.md",
-    "1.Images/Pasted image 20250518121728.png",
     "University/Ai/11. First-Order Logic.md",
     "University/Ai/10. Fundamentals Of Classical Logic.md",
-    "1.Images/Pasted image 20250518120549.png",
-    "1.Images/Pasted image 20250518120537.png",
-    "1.Images/Pasted image 20250518113943.png",
-    "1.Images/Pasted image 20250518113934.png",
     "University/Ai/9. KRR.md",
-    "1.Images/Pasted image 20250518090406.png",
     "University/Ai/8. Probability.md",
-    "1.Images/Pasted image 20250518001648.png",
-    "1.Images/Pasted image 20250518011853.png",
-    "1.Images/Pasted image 20250518011849.png",
-    "1.Images/Pasted image 20250518011844.png",
     "University/Ai/7. Randomness and uncertainty.md",
     "University/Ai/1. Intro.md",
     "University/Ai/2. Search.md",
@@ -224,17 +234,10 @@
     "University/Ai/PastNotes/2. Intro To Search.md",
     "University/Ai/Slides/2. Search Slides.pdf",
     "University/Ai/Slides/1. Intro Slides.pdf",
-    "Pasted image 20250127211426.md",
-    "Simple reflex.md",
-    "University/Ai/PastNotes/1. Intro To Ai.md",
     "University/Ai/PastNotes",
     "University/Data Mining/Slides/07b CHEAT NLTK Python.pdf",
     "University/Data Mining/Slides/10a edubots for university education.pdf",
     "University/Data Mining/Slides/07a Information Extraction.pdf",
-    "University/Data Mining/Slides/msoA7AE.tmp",
-    "University/SoftEng/Belbins/My Scores.md",
-    "University/SoftEng/1. Intro To Soft Eng.md",
-    "University/FirmLang/3. Non-Deterministic FSA.md",
     "SoftEng/Untitled.canvas"
   ]
 }
