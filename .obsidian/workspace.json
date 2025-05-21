@@ -11,14 +11,12 @@
             "id": "3345393733bee886",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "University/Algo2/1. Graphs.md",
-                "mode": "source",
-                "source": false
+                "file": "1.Images/Pasted image 20250521154928.png"
               },
-              "icon": "lucide-file",
-              "title": "1. Graphs"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250521154928"
             }
           }
         ]
@@ -193,19 +191,18 @@
   },
   "active": "3345393733bee886",
   "lastOpenFiles": [
-    "Pasted image 20250521191517.png",
-    "Pasted image 20250521191513.png",
-    "Pasted image 20250521190637.png",
-    "Pasted image 20250521190632.png",
-    "Pasted image 20250521190523.png",
-    "Pasted image 20250521185813.png",
-    "Pasted image 20250521185211.png",
-    "Pasted image 20250521185034.png",
-    "University/Algo2/2. Greedy Algorithms.md",
     "University/Algo2/1. Graphs.md",
-    "Pasted image 20250521184048.png",
-    "Pasted image 20250521183432.png",
-    "Pasted image 20250521182854.png",
+    "1.Images/Pasted image 20250521191517.png",
+    "1.Images/Pasted image 20250521191513.png",
+    "1.Images/Pasted image 20250521190637.png",
+    "1.Images/Pasted image 20250521190632.png",
+    "1.Images/Pasted image 20250521190523.png",
+    "1.Images/Pasted image 20250521185813.png",
+    "1.Images/Pasted image 20250521185211.png",
+    "1.Images/Pasted image 20250521185034.png",
+    "University/Algo2/2. Greedy Algorithms.md",
+    "1.Images/Pasted image 20250521184048.png",
+    "1.Images/Pasted image 20250521183432.png",
     "University/Algo2/7. Balanced Search Trees.md",
     "University/Algo2/6. Hashing.md",
     "University/Algo2/5. Priority Queue.md",
