@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/NetWorks/4. IP Addresses.md",
+                "file": "University/Algo2/1. Graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. IP Addresses"
+              "title": "1. Graphs"
             }
           }
         ]
@@ -191,14 +191,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "3345393733bee886",
   "lastOpenFiles": [
-    "1.Images/Pasted image 20250520014032.png",
+    "University/Algo2/2. Greedy Algorithms.md",
+    "University/Algo2/7. Balanced Search Trees.md",
+    "University/Algo2/6. Hashing.md",
+    "University/Algo2/5. Priority Queue.md",
+    "University/Algo2/4. Divide & Conquer.md",
+    "University/Algo2/3. Dynamic Programming.md",
+    "University/Algo2/1. Graphs.md",
+    "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
     "University/NetWorks/3. DNS.md",
-    "University/NetWorks/OldNotes/3. Ports.md",
-    "University/NetWorks/1. Networks.md",
     "University/NetWorks/2. Ports.md",
+    "University/NetWorks/1. Networks.md",
+    "1.Images/Pasted image 20250520014032.png",
+    "University/NetWorks/OldNotes/3. Ports.md",
     "1.Images/Pasted image 20250520013900.png",
     "1.Images/Pasted image 20250520013806.png",
     "1.Images/Pasted image 20250520013729.png",
@@ -224,14 +232,7 @@
     "University/Ai/2. Search.md",
     "University/Ai/3. Searches.md",
     "University/Ai/5. MiniMax.md",
-    "University/Ai/6. Alpha-Beta Pruning.md",
     "Untitled",
-    "University/Ai/4. Heuristics.md",
-    "University/Ai/PastNotes/5. More Heuristics.md",
-    "University/Ai/PastNotes/4. Informed Heuristic Search.md",
-    "University/Ai/PastNotes/3. Search Strategies & Algorithms.md",
-    "University/Ai/PastNotes/6. Uniform Cost Search.md",
-    "University/Ai/PastNotes/2. Intro To Search.md",
     "University/Ai/Slides/2. Search Slides.pdf",
     "University/Ai/Slides/1. Intro Slides.pdf",
     "University/Ai/PastNotes",
