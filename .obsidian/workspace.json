@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Algo2/5. Priority Queue.md",
+                "file": "University/Algo2/6. Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Priority Queue"
+              "title": "6. Hashing"
             }
           }
         ]
@@ -193,17 +193,19 @@
   },
   "active": "543403a28265d7f2",
   "lastOpenFiles": [
-    "1.Images/Pasted image 20250522224835.png",
+    "1.Images/Pasted image 20250522232226.png",
+    "University/Algo2/6. Hashing.md",
+    "1.Images/Pasted image 20250522233014.png",
+    "1.Images/Pasted image 20250522233007.png",
+    "1.Images/Pasted image 20250522233002.png",
+    "1.Images/Pasted image 20250522232952.png",
+    "1.Images/Pasted image 20250522232947.png",
+    "1.Images/Pasted image 20250522232943.png",
+    "1.Images/Pasted image 20250522232937.png",
+    "1.Images/Pasted image 20250522232932.png",
+    "1.Images/Pasted image 20250522232927.png",
+    "1.Images/Pasted image 20250522232920.png",
     "University/Algo2/5. Priority Queue.md",
-    "1.Images/Pasted image 20250522224749.png",
-    "1.Images/Pasted image 20250522224729.png",
-    "1.Images/Pasted image 20250522224715.png",
-    "1.Images/Pasted image 20250522224703.png",
-    "1.Images/Pasted image 20250522224659.png",
-    "1.Images/Pasted image 20250522224613.png",
-    "1.Images/Pasted image 20250522224602.png",
-    "1.Images/Pasted image 20250522224556.png",
-    "1.Images/Pasted image 20250522224549.png",
     "University/Algo2/4. Divide & Conquer.md",
     "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
@@ -224,7 +226,6 @@
     "University/Algo2/Slides/algouv.pdf",
     "University/Algo2/Slides/graphs.pdf",
     "University/Ai/4. Heuristics.md",
-    "University/Algo2/6. Hashing.md",
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
     "University/NetWorks/3. DNS.md",
