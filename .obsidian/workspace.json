@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be72e63ba636f7ce",
+        "id": "92c48978fa747f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "3345393733bee886",
+            "id": "569ed12094213c8c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "1.Images/Pasted image 20250521154928.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250521154928"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,25 +187,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3345393733bee886",
+  "active": "569ed12094213c8c",
   "lastOpenFiles": [
-    "University/Algo2/1. Graphs.md",
-    "1.Images/Pasted image 20250521191517.png",
-    "1.Images/Pasted image 20250521191513.png",
-    "1.Images/Pasted image 20250521190637.png",
-    "1.Images/Pasted image 20250521190632.png",
-    "1.Images/Pasted image 20250521190523.png",
-    "1.Images/Pasted image 20250521185813.png",
-    "1.Images/Pasted image 20250521185211.png",
-    "1.Images/Pasted image 20250521185034.png",
+    "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
-    "1.Images/Pasted image 20250521184048.png",
-    "1.Images/Pasted image 20250521183432.png",
+    "1.Images/Pasted image 20250522015253.png",
+    "1.Images/Pasted image 20250522015247.png",
+    "1.Images/Pasted image 20250522015242.png",
+    "1.Images/Pasted image 20250522015112.png",
+    "1.Images/Pasted image 20250522012659.png",
+    "1.Images/Pasted image 20250522005318.png",
+    "1.Images/Pasted image 20250522005434.png",
+    "1.Images/Pasted image 20250522011832.png",
+    "1.Images/Pasted image 20250522011826.png",
+    "1.Images/Pasted image 20250522011819.png",
+    "University/Data Mining/1. Intro to Data Mining.md",
+    "University/Data Mining/Book/TheLanguageMachine.pdf",
+    "University/Algo2/1. Graphs.md",
+    "University/Algo2/Slides/algodb.pdf",
+    "University/Algo2/Slides/algoII.pdf",
+    "University/Algo2/Slides/algouv.pdf",
+    "University/Algo2/Slides/graphs.pdf",
+    "University/Ai/4. Heuristics.md",
+    "University/Algo2/5. Priority Queue.md",
     "University/Algo2/7. Balanced Search Trees.md",
     "University/Algo2/6. Hashing.md",
-    "University/Algo2/5. Priority Queue.md",
     "University/Algo2/4. Divide & Conquer.md",
-    "University/Algo2/3. Dynamic Programming.md",
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
     "University/NetWorks/3. DNS.md",
@@ -227,15 +232,8 @@
     "University/Ai/8. Probability.md",
     "University/Ai/7. Randomness and uncertainty.md",
     "University/Ai/1. Intro.md",
-    "University/Ai/2. Search.md",
-    "University/Ai/3. Searches.md",
     "Untitled",
     "University/Ai/Slides/2. Search Slides.pdf",
-    "University/Ai/Slides/1. Intro Slides.pdf",
-    "University/Ai/PastNotes",
-    "University/Data Mining/Slides/07b CHEAT NLTK Python.pdf",
-    "University/Data Mining/Slides/10a edubots for university education.pdf",
-    "University/Data Mining/Slides/07a Information Extraction.pdf",
     "SoftEng/Untitled.canvas"
   ]
 }
