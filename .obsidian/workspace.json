@@ -11,14 +11,12 @@
             "id": "abe77408f39922fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "University/Algo2/4. Divide & Conquer.md",
-                "mode": "source",
-                "source": false
+                "file": "1.Images/Pasted image 20250522214414.png"
               },
-              "icon": "lucide-file",
-              "title": "4. Divide & Conquer"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250522214414"
             }
           }
         ]
@@ -176,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 258
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,26 +189,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abe77408f39922fe",
+  "active": "7190751ebed3971d",
   "lastOpenFiles": [
-    "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/4. Divide & Conquer.md",
-    "University/Algo2/Revise.md",
+    "1.Images/Pasted image 20250522222314.png",
+    "1.Images/Pasted image 20250522222308.png",
+    "1.Images/Pasted image 20250522222302.png",
+    "1.Images/Pasted image 20250522222134.png",
+    "1.Images/Pasted image 20250522221921.png",
+    "1.Images/Pasted image 20250522221757.png",
+    "1.Images/Pasted image 20250522221745.png",
+    "1.Images/Pasted image 20250522221657.png",
+    "1.Images/Pasted image 20250522221650.png",
+    "1.Images/Pasted image 20250522221615.png",
+    "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
+    "University/Algo2/Revise.md",
     "University/Algo2/1. Graphs.md",
-    "1.Images/Pasted image 20250522183940.png",
-    "1.Images/Pasted image 20250522183718.png",
-    "1.Images/Pasted image 20250522182336.png",
-    "1.Images/Pasted image 20250522182238.png",
-    "1.Images/Pasted image 20250522172049.png",
     "University/Algo2/7. Balanced Search Trees.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "University/Data Mining/1. Intro to Data Mining.md",
-    "1.Images/Pasted image 20250522180949.png",
-    "1.Images/Pasted image 20250522180156.png",
-    "1.Images/Pasted image 20250522180110.png",
-    "1.Images/Pasted image 20250522180059.png",
-    "1.Images/Pasted image 20250522175132.png",
     "University/Ai/10. Fundamentals Of Classical Logic.md",
     "University/Ai/11. First-Order Logic.md",
     "University/Ai/9. KRR.md",
@@ -234,7 +232,6 @@
     "University/NetWorks/OldNotes/2. Layered Network Models.md",
     "University/NetWorks/OldNotes",
     "University/NetWorks/OldNotes/1. Intro to Networks.md",
-    "Untitled.md",
     "Excalidraw",
     "University/NetWorks/Worksheet/Worksheet 1.pdf",
     "Untitled",
