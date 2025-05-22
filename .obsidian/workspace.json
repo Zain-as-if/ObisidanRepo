@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.000732421875
+    "width": 200
   },
   "right": {
     "id": "d0ae786ff6ca6e40",
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef5c54571bf65399",
+  "active": "cfd52a63f5074769",
   "lastOpenFiles": [
     "University/Algo2/7. Balanced Search Trees.md",
     "University/Algo2/Revise.md",
