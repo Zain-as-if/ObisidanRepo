@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "1.Images/Pasted image 20250522214414.png"
+                "file": "1.Images/Pasted image 20250522224835.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250522214414"
+              "title": "Pasted image 20250522224835"
             }
           }
         ]
@@ -189,19 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "abe77408f39922fe",
   "lastOpenFiles": [
+    "University/Algo2/5. Priority Queue.md",
+    "1.Images/Pasted image 20250522224835.png",
+    "1.Images/Pasted image 20250522224749.png",
+    "1.Images/Pasted image 20250522224729.png",
+    "1.Images/Pasted image 20250522224715.png",
+    "1.Images/Pasted image 20250522224703.png",
+    "1.Images/Pasted image 20250522224659.png",
+    "1.Images/Pasted image 20250522224613.png",
+    "1.Images/Pasted image 20250522224602.png",
+    "1.Images/Pasted image 20250522224556.png",
+    "1.Images/Pasted image 20250522224549.png",
     "University/Algo2/4. Divide & Conquer.md",
-    "1.Images/Pasted image 20250522222314.png",
-    "1.Images/Pasted image 20250522222308.png",
-    "1.Images/Pasted image 20250522222302.png",
-    "1.Images/Pasted image 20250522222134.png",
-    "1.Images/Pasted image 20250522221921.png",
-    "1.Images/Pasted image 20250522221757.png",
-    "1.Images/Pasted image 20250522221745.png",
-    "1.Images/Pasted image 20250522221657.png",
-    "1.Images/Pasted image 20250522221650.png",
-    "1.Images/Pasted image 20250522221615.png",
     "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
     "University/Algo2/Revise.md",
@@ -221,7 +222,6 @@
     "University/Algo2/Slides/algouv.pdf",
     "University/Algo2/Slides/graphs.pdf",
     "University/Ai/4. Heuristics.md",
-    "University/Algo2/5. Priority Queue.md",
     "University/Algo2/6. Hashing.md",
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
