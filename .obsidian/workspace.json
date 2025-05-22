@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "543403a28265d7f2",
+            "id": "ef5c54571bf65399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Algo2/6. Hashing.md",
+                "file": "University/Algo2/Revise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Hashing"
+              "title": "Revise"
             }
           }
         ]
@@ -191,27 +191,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "543403a28265d7f2",
+  "active": "ef5c54571bf65399",
   "lastOpenFiles": [
-    "1.Images/Pasted image 20250522232226.png",
+    "University/Algo2/7. Balanced Search Trees.md",
+    "University/Algo2/Revise.md",
+    "1.Images/Pasted image 20250523000046.png",
+    "1.Images/Pasted image 20250523000042.png",
+    "1.Images/Pasted image 20250523000039.png",
+    "1.Images/Pasted image 20250522235957.png",
+    "1.Images/Pasted image 20250522235952.png",
+    "1.Images/Pasted image 20250522235948.png",
+    "1.Images/Pasted image 20250522235943.png",
+    "1.Images/Pasted image 20250522235935.png",
+    "1.Images/Pasted image 20250522235930.png",
+    "1.Images/Pasted image 20250522235924.png",
     "University/Algo2/6. Hashing.md",
-    "1.Images/Pasted image 20250522233014.png",
-    "1.Images/Pasted image 20250522233007.png",
-    "1.Images/Pasted image 20250522233002.png",
-    "1.Images/Pasted image 20250522232952.png",
-    "1.Images/Pasted image 20250522232947.png",
-    "1.Images/Pasted image 20250522232943.png",
-    "1.Images/Pasted image 20250522232937.png",
-    "1.Images/Pasted image 20250522232932.png",
-    "1.Images/Pasted image 20250522232927.png",
-    "1.Images/Pasted image 20250522232920.png",
     "University/Algo2/5. Priority Queue.md",
     "University/Algo2/4. Divide & Conquer.md",
     "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
-    "University/Algo2/Revise.md",
     "University/Algo2/1. Graphs.md",
-    "University/Algo2/7. Balanced Search Trees.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/Ai/10. Fundamentals Of Classical Logic.md",
