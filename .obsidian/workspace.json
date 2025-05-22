@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee3d03c4309b90ef",
+        "id": "1502c2a415c948cf",
         "type": "tabs",
         "children": [
           {
-            "id": "abe77408f39922fe",
+            "id": "543403a28265d7f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1.Images/Pasted image 20250522224835.png"
+                "file": "University/Algo2/5. Priority Queue.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250522224835"
+              "icon": "lucide-file",
+              "title": "5. Priority Queue"
             }
           }
         ]
@@ -189,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abe77408f39922fe",
+  "active": "543403a28265d7f2",
   "lastOpenFiles": [
-    "University/Algo2/5. Priority Queue.md",
     "1.Images/Pasted image 20250522224835.png",
+    "University/Algo2/5. Priority Queue.md",
     "1.Images/Pasted image 20250522224749.png",
     "1.Images/Pasted image 20250522224729.png",
     "1.Images/Pasted image 20250522224715.png",
