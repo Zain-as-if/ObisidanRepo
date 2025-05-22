@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92c48978fa747f3b",
+        "id": "ee3d03c4309b90ef",
         "type": "tabs",
         "children": [
           {
-            "id": "569ed12094213c8c",
+            "id": "abe77408f39922fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/Algo2/3. Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Dynamic Programming"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evaluation",
+                "query": "digraph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.000732421875
   },
   "right": {
     "id": "d0ae786ff6ca6e40",
@@ -187,32 +191,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "569ed12094213c8c",
+  "active": "abe77408f39922fe",
   "lastOpenFiles": [
-    "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
-    "1.Images/Pasted image 20250522015253.png",
-    "1.Images/Pasted image 20250522015247.png",
-    "1.Images/Pasted image 20250522015242.png",
-    "1.Images/Pasted image 20250522015112.png",
-    "1.Images/Pasted image 20250522012659.png",
-    "1.Images/Pasted image 20250522005318.png",
-    "1.Images/Pasted image 20250522005434.png",
-    "1.Images/Pasted image 20250522011832.png",
-    "1.Images/Pasted image 20250522011826.png",
-    "1.Images/Pasted image 20250522011819.png",
+    "1.Images/Pasted image 20250522172049.png",
+    "University/Algo2/3. Dynamic Programming.md",
+    "University/Algo2/4. Divide & Conquer.md",
+    "University/Algo2/7. Balanced Search Trees.md",
+    "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "University/Data Mining/1. Intro to Data Mining.md",
-    "University/Data Mining/Book/TheLanguageMachine.pdf",
+    "1.Images/Pasted image 20250522180949.png",
+    "1.Images/Pasted image 20250522180156.png",
+    "1.Images/Pasted image 20250522180110.png",
+    "1.Images/Pasted image 20250522180059.png",
+    "1.Images/Pasted image 20250522175132.png",
+    "1.Images/Pasted image 20250522175125.png",
+    "1.Images/Pasted image 20250522175046.png",
+    "1.Images/Pasted image 20250522175038.png",
+    "1.Images/Pasted image 20250522175029.png",
+    "University/Ai/10. Fundamentals Of Classical Logic.md",
+    "University/Ai/11. First-Order Logic.md",
+    "University/Ai/9. KRR.md",
+    "University/Ai/3. Searches.md",
+    "University/Ai/1. Intro.md",
     "University/Algo2/1. Graphs.md",
+    "Excalidraw/Drawing 2025-05-22 16.25.26.excalidraw.md",
+    "University/Data Mining/Book/TheLanguageMachine.pdf",
     "University/Algo2/Slides/algodb.pdf",
     "University/Algo2/Slides/algoII.pdf",
     "University/Algo2/Slides/algouv.pdf",
     "University/Algo2/Slides/graphs.pdf",
     "University/Ai/4. Heuristics.md",
     "University/Algo2/5. Priority Queue.md",
-    "University/Algo2/7. Balanced Search Trees.md",
     "University/Algo2/6. Hashing.md",
-    "University/Algo2/4. Divide & Conquer.md",
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
     "University/NetWorks/3. DNS.md",
@@ -223,15 +234,8 @@
     "University/NetWorks/OldNotes",
     "University/NetWorks/OldNotes/1. Intro to Networks.md",
     "Untitled.md",
-    "Excalidraw/Drawing 2025-05-19 17.43.28.excalidraw.md",
     "Excalidraw",
     "University/NetWorks/Worksheet/Worksheet 1.pdf",
-    "University/Ai/11. First-Order Logic.md",
-    "University/Ai/10. Fundamentals Of Classical Logic.md",
-    "University/Ai/9. KRR.md",
-    "University/Ai/8. Probability.md",
-    "University/Ai/7. Randomness and uncertainty.md",
-    "University/Ai/1. Intro.md",
     "Untitled",
     "University/Ai/Slides/2. Search Slides.pdf",
     "SoftEng/Untitled.canvas"
