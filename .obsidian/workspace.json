@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Algo2/3. Dynamic Programming.md",
+                "file": "University/Algo2/4. Divide & Conquer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Dynamic Programming"
+              "title": "4. Divide & Conquer"
             }
           }
         ]
@@ -193,14 +193,16 @@
   },
   "active": "abe77408f39922fe",
   "lastOpenFiles": [
-    "1.Images/Pasted image 20250522183940.png",
     "University/Algo2/3. Dynamic Programming.md",
+    "University/Algo2/4. Divide & Conquer.md",
+    "University/Algo2/Revise.md",
+    "University/Algo2/2. Greedy Algorithms.md",
+    "University/Algo2/1. Graphs.md",
+    "1.Images/Pasted image 20250522183940.png",
     "1.Images/Pasted image 20250522183718.png",
     "1.Images/Pasted image 20250522182336.png",
     "1.Images/Pasted image 20250522182238.png",
-    "University/Algo2/2. Greedy Algorithms.md",
     "1.Images/Pasted image 20250522172049.png",
-    "University/Algo2/4. Divide & Conquer.md",
     "University/Algo2/7. Balanced Search Trees.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "University/Data Mining/1. Intro to Data Mining.md",
@@ -214,7 +216,6 @@
     "University/Ai/9. KRR.md",
     "University/Ai/3. Searches.md",
     "University/Ai/1. Intro.md",
-    "University/Algo2/1. Graphs.md",
     "Excalidraw/Drawing 2025-05-22 16.25.26.excalidraw.md",
     "University/Data Mining/Book/TheLanguageMachine.pdf",
     "University/Algo2/Slides/algodb.pdf",
