@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Discrete/1..md",
+                "file": "University/Discrete/Spec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "Spec"
             }
           }
         ]
@@ -193,8 +193,10 @@
   },
   "active": "ef5c54571bf65399",
   "lastOpenFiles": [
+    "University/Discrete/1. Combinatorics.md",
+    "University/Discrete/Spec.md",
+    "1.Images/Pasted image 20250526165755.png",
     "University/Algo2/Revise.md",
-    "University/Discrete/1..md",
     "University/Discrete/Slides/Section-2-lecturing.pdf",
     "University/Discrete/Slides/Section-3-lecturing.pdf",
     "University/Discrete/Slides/LectureNotes.pdf",
@@ -214,7 +216,6 @@
     "1.Images/Pasted image 20250522235943.png",
     "1.Images/Pasted image 20250522235935.png",
     "1.Images/Pasted image 20250522235930.png",
-    "1.Images/Pasted image 20250522235924.png",
     "University/Algo2/6. Hashing.md",
     "University/Algo2/5. Priority Queue.md",
     "University/Algo2/4. Divide & Conquer.md",
@@ -238,7 +239,6 @@
     "University/NetWorks/1. Networks.md",
     "University/NetWorks/OldNotes/3. Ports.md",
     "University/NetWorks/OldNotes/2. Layered Network Models.md",
-    "University/NetWorks/OldNotes/1. Intro to Networks.md",
     "SoftEng/Untitled.canvas"
   ]
 }
