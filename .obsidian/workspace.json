@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digraph",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,10 +191,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfd52a63f5074769",
+  "active": "7190751ebed3971d",
   "lastOpenFiles": [
-    "University/Algo2/7. Balanced Search Trees.md",
+    "University/Discrete/Slides/Section-2-lecturing.pdf",
+    "University/Discrete/Slides/Section-3-lecturing.pdf",
+    "University/Discrete/Slides/LectureNotes.pdf",
+    "University/Discrete/Slides/Section-1-lecturing.pdf",
+    "University/Discrete/Slides",
+    "University/Discrete",
+    "University/Algo2/3. Dynamic Programming.md",
+    "University/Algo2/2. Greedy Algorithms.md",
     "University/Algo2/Revise.md",
+    "University/Algo2/1. Graphs.md",
+    "University/Algo2/7. Balanced Search Trees.md",
     "1.Images/Pasted image 20250523000046.png",
     "1.Images/Pasted image 20250523000042.png",
     "1.Images/Pasted image 20250523000039.png",
@@ -208,9 +217,6 @@
     "University/Algo2/6. Hashing.md",
     "University/Algo2/5. Priority Queue.md",
     "University/Algo2/4. Divide & Conquer.md",
-    "University/Algo2/3. Dynamic Programming.md",
-    "University/Algo2/2. Greedy Algorithms.md",
-    "University/Algo2/1. Graphs.md",
     "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/Ai/10. Fundamentals Of Classical Logic.md",
@@ -232,12 +238,7 @@
     "University/NetWorks/1. Networks.md",
     "University/NetWorks/OldNotes/3. Ports.md",
     "University/NetWorks/OldNotes/2. Layered Network Models.md",
-    "University/NetWorks/OldNotes",
     "University/NetWorks/OldNotes/1. Intro to Networks.md",
-    "Excalidraw",
-    "University/NetWorks/Worksheet/Worksheet 1.pdf",
-    "Untitled",
-    "University/Ai/Slides/2. Search Slides.pdf",
     "SoftEng/Untitled.canvas"
   ]
 }
