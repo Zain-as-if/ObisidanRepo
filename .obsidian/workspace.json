@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Algo2/Revise.md",
+                "file": "University/Discrete/1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revise"
+              "title": "1."
             }
           }
         ]
@@ -191,8 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7190751ebed3971d",
+  "active": "ef5c54571bf65399",
   "lastOpenFiles": [
+    "University/Algo2/Revise.md",
+    "University/Discrete/1..md",
     "University/Discrete/Slides/Section-2-lecturing.pdf",
     "University/Discrete/Slides/Section-3-lecturing.pdf",
     "University/Discrete/Slides/LectureNotes.pdf",
@@ -201,7 +203,6 @@
     "University/Discrete",
     "University/Algo2/3. Dynamic Programming.md",
     "University/Algo2/2. Greedy Algorithms.md",
-    "University/Algo2/Revise.md",
     "University/Algo2/1. Graphs.md",
     "University/Algo2/7. Balanced Search Trees.md",
     "1.Images/Pasted image 20250523000046.png",
@@ -229,7 +230,6 @@
     "University/Algo2/Slides/algodb.pdf",
     "University/Algo2/Slides/algoII.pdf",
     "University/Algo2/Slides/algouv.pdf",
-    "University/Algo2/Slides/graphs.pdf",
     "University/Ai/4. Heuristics.md",
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
