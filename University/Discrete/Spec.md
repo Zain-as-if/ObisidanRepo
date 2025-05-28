@@ -167,3 +167,19 @@ Not independent
  <h4>Graphs</h4>
 ![[Pasted image 20250527130119.png]]
 ![[Pasted image 20250527130201.png]]![[Pasted image 20250527130208.png]]
+
+---
+<h4>Pigeon Holes</h4>
+N Objects are placed into k boxes, there is at least one box containing $\lceil \frac{N}{k} \rceil$ objects
+
+E.g. 
+Among 50 people what is numebr of people that must be born on the same month
+1. 50 people = N
+2. 12 months = k
+3. $\lceil \frac{50}{12} \rceil=5$
+
+How many students in class must be there to ensure that 3 students get same grade {A,B,C,D,F}
+1. Students = N
+2. 5 grades = k
+3. $\left\lceil  \frac{N-1}{5}  \right\rceil=3-1$
+4. =11
