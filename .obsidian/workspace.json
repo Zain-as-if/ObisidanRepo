@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca638947286fe37b",
+        "id": "d3592437f583d47f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae85aba2c73f742",
+            "id": "8c4cfe87c1b9340c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Discrete/Spec.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Spec"
+              "title": "New tab"
             }
           }
         ]
@@ -191,10 +187,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ae85aba2c73f742",
+  "active": "8c4cfe87c1b9340c",
   "lastOpenFiles": [
-    "1.Images/Pasted image 20250527120524.png",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-2.pdf",
     "University/Discrete/Spec.md",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-7.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-6.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-5.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-4.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-3.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-20.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-19.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-18.pdf",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-17.pdf",
+    "1.Images/Pasted image 20250527120524.png",
     "1.Images/Pasted image 20250527130208.png",
     "1.Images/Pasted image 20250527130201.png",
     "1.Images/Pasted image 20250527130119.png",
@@ -212,12 +218,6 @@
     "Excalidraw/Drawing 2025-05-22 16.25.26.excalidraw.md",
     "University/Discrete/1. Combinatorics.md",
     "1.Images/Pasted image 20250526165755.png",
-    "University/Discrete/Slides/Section-2-lecturing.pdf",
-    "University/Discrete/Slides/Section-3-lecturing.pdf",
-    "University/Discrete/Slides/LectureNotes.pdf",
-    "University/Discrete/Slides/Section-1-lecturing.pdf",
-    "University/Discrete/Slides",
-    "University/Discrete",
     "University/Algo2/7. Balanced Search Trees.md",
     "1.Images/Pasted image 20250523000046.png",
     "University/Algo2/6. Hashing.md",
@@ -229,10 +229,6 @@
     "University/Ai/9. KRR.md",
     "University/Ai/3. Searches.md",
     "University/Ai/1. Intro.md",
-    "University/Data Mining/Book/TheLanguageMachine.pdf",
-    "University/Algo2/Slides/algodb.pdf",
-    "University/Algo2/Slides/algoII.pdf",
-    "University/Algo2/Slides/algouv.pdf",
     "University/Ai/4. Heuristics.md",
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
