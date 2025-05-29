@@ -183,3 +183,23 @@ How many students in class must be there to ensure that 3 students get same grad
 2. 5 grades = k
 3. $\left\lceil  \frac{N-1}{5}  \right\rceil=3-1$
 4. =11
+---
+<h4>Combination Repetition</h4>
+$$nC_{k}=\begin{pmatrix}n+k-1\\k\end{pmatrix}=\frac{(n+k-1)!}{k!(n+k-1-k)!}=\frac{(n+k-1)!}{k!(n-1)!}$$
+E.g.
+How many ways can choose 4 candies from jar containing 3 types of candies (choc, gummy, mint). Can choose multiple candies of same type
+- $\begin{pmatrix}3+4-1\\4\end{pmatrix}=\begin{pmatrix}6\\4\end{pmatrix}=15$
+<h4>Permutations Indistinguishable Objects</h4>
+$$nP_{k}=\frac{n!}{p_{1}!\cdot p_{2}!\cdot\dots \cdot p_{k}!}$$
+E.g.
+How many distinct ways can letters of word 'Balloon' be arranged
+1. Count total number of letters
+	- L - 2
+	- O - 2
+	- B, A, N = 1
+2. Formula
+	- n = total number of letters = 7
+	- $p_{i}$ = counts of each repeated letter
+	- $$\frac{7!}{1!\cdot 1!\cdot 1!\cdot 2! \cdot 2!}=\frac{7!}{2!\cdot 2!}$$
+---
+ 
