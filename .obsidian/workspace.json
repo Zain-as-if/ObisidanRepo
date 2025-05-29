@@ -11,10 +11,26 @@
             "id": "8c4cfe87c1b9340c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/FirmLang/1. Finite State Automata.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Finite State Automata"
+            }
+          },
+          {
+            "id": "000524bdf56d2eb2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Formal_Language_Finite_Autaomata-2"
             }
           }
         ]
@@ -187,26 +203,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c4cfe87c1b9340c",
+  "active": "cfd52a63f5074769",
   "lastOpenFiles": [
+    "Pasted image 20250529221142.png",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-2.pdf",
+    "University/FirmLang/1. Finite State Automata.md",
+    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-3.pdf",
+    "Pasted image 20250529213307.png",
+    "University/FirmLang/Old/3. Non-Deterministic FSA.md",
+    "University/FirmLang/Old",
     "University/Discrete/Spec.md",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-7.pdf",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-6.pdf",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-5.pdf",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-4.pdf",
-    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-3.pdf",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-20.pdf",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-19.pdf",
     "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-18.pdf",
-    "University/FirmLang/Slides/Formal_Language_Finite_Autaomata-17.pdf",
     "1.Images/Pasted image 20250527120524.png",
     "1.Images/Pasted image 20250527130208.png",
     "1.Images/Pasted image 20250527130201.png",
     "1.Images/Pasted image 20250527130119.png",
     "Untitled.md",
     "University/Algo2/Revise.md",
-    "University/FirmLang/3. Non-Deterministic FSA.md",
     "University/Ai/10. Fundamentals Of Classical Logic.md",
     "1.Images/Pasted image 20250527124018.png",
     "1.Images/Pasted image 20250527123723.png",
@@ -219,11 +238,10 @@
     "University/Discrete/1. Combinatorics.md",
     "1.Images/Pasted image 20250526165755.png",
     "University/Algo2/7. Balanced Search Trees.md",
-    "1.Images/Pasted image 20250523000046.png",
     "University/Algo2/6. Hashing.md",
     "University/Algo2/5. Priority Queue.md",
     "University/Algo2/4. Divide & Conquer.md",
-    "University/FirmLang/1. Intro To Formal Language & Finite Automata.md",
+    "University/FirmLang/Old/1. Intro To Formal Language & Finite Automata.md",
     "University/Data Mining/1. Intro to Data Mining.md",
     "University/Ai/11. First-Order Logic.md",
     "University/Ai/9. KRR.md",
@@ -233,7 +251,6 @@
     "University/NetWorks/All.md",
     "University/NetWorks/4. IP Addresses.md",
     "University/NetWorks/3. DNS.md",
-    "University/NetWorks/2. Ports.md",
     "SoftEng/Untitled.canvas"
   ]
 }
